@@ -1,0 +1,42 @@
+St6.Audio Splitter
+Proprietary License
+
+Copyright (c) 2025-2026 Autumn (st6autumn). All rights reserved.
+
+Permission is NOT granted to any person obtaining a copy of this software
+and associated documentation files (the "Software") to copy, modify, merge,
+publish, distribute, sublicense, sell copies of the Software, or to
+reverse-engineer, decompile, or disassemble any part of it, in source or
+binary form, without explicit prior written permission from the author.
+
+The Software is provided "AS IS", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+author be liable for any claim, damages or other liability, whether in an
+action of contract, tort or otherwise, arising from, out of or in connection
+with the Software or the use or other dealings in the Software.
+
+----------------------------------------------------------------------
+
+Third-party components bundled or auto-installed by this software remain
+under their original licenses. They are NOT covered by this proprietary
+license:
+
+  - Demucs (Meta AI Research) — MIT License
+    https://github.com/facebookresearch/demucs
+
+  - PyTorch (PyTorch Foundation) — BSD-style License
+    https://github.com/pytorch/pytorch/blob/main/LICENSE
+
+  - soundfile (bastibe) — BSD-3-Clause
+    https://github.com/bastibe/python-soundfile/blob/master/LICENSE
+
+  - FFmpeg — LGPL-2.1-or-later (or GPL-2.0-or-later for the gpl-licensed
+    builds shipped via BtbN/FFmpeg-Builds)
+    https://ffmpeg.org/legal.html
+
+  - Adobe CEP Resources / ZXPSignCMD — see Adobe's license terms
+    https://github.com/Adobe-CEP/CEP-Resources
+
+For full license texts of bundled or auto-installed components, refer to
+the upstream projects linked above.
